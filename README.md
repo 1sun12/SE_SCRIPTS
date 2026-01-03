@@ -5,3 +5,6 @@ Please visit the following links which will take you to "Malforge's MDK2", a hel
 
 - https://github.com/malforge/mdk2
 - https://malforge.github.io/spaceengineers/mdk2/Getting-Started-using-VSCode.html
+
+After setup, type:
+`dotnet new mdk2pbscript -n MyFirstScript -o MyFirstScript` to create your first script! (Assuming you installed Malforge's MDK2)
